@@ -1,8 +1,5 @@
-# myapptest
+# flutter-test
 
-A new Flutter project.
+A new flutter playground.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Sample Chat list.
